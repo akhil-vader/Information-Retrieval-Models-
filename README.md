@@ -9,8 +9,8 @@ A query processor, which runs queries from an input file using a selected retrie
 
 
 # The models implemented
-Okapi TF
-TF-IDF
-Okapi BM25
-Unigram LM with Laplace smoothing
-Unigram LM with Jelinek-Mercer smoothing
+Okapi TF  
+TF-IDF  
+Okapi BM25  
+Unigram LM with Laplace smoothing  
+Unigram LM with Jelinek-Mercer smoothing  
